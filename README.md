@@ -1,2 +1,2 @@
-# core-code
+# core-code-lou
 Core Code bootcamp
