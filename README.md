@@ -1,7 +1,7 @@
 # core-code-lou
 Core Code bootcamp
-## Introduction to programming & Javascript - Week #1 - Tuesday
-**ANSWERS**
+## Introduction to programming & Javascript - Week #1
+**Tuesday ANSWERS**
 
 ### 1
 ☑️: Compilation vs Interpretation 
@@ -50,3 +50,12 @@ Communicate the ideas how the program is going to work and how other people will
 ### 9
 - High-level languages: Python, C++, Java, Visual Basic
 - Low-level languages: Assembler, Machine Languaja 0-1
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Wednesday ANSWERS**
+### 1
+
+### 2
+### 3
+### 4
+### 5
