@@ -19,7 +19,7 @@ Java Script is software-based Interpreter
 - localCurrency = quetzal * dolar
 - Print localCurrency
 - End
-------------
+------------------------------------------------------------------------------------------------
 `const  dolar = 7.60;
 var localCurrency;
 const  monto = 70;
@@ -37,7 +37,7 @@ Great way to start learning programing and will explain what each line in the pr
 - age = currentYear - bornYear
 - Print age
 - End
----------------------
+---------------------------------------------------------------------------------------------------------------------
 `const  currentYear = 2022;
 var age;
 const  bornYear = 1975;
