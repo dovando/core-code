@@ -1,19 +1,18 @@
 # core-code-lou
 Core Code bootcamp
 
-# Week #1 - Tuesday
-
+## Introduction to programming & Javascript - Week 1 Week #1 - Tuesday
 **ANSWEERS**
 
-## 1
+### 1
 ☑️: Compilation vs Interpretation 
 Programs will depend on what do we want to develop
 Compilation: Code/binary form/ ready to execute in the CPU  C. C++, Objective C
 Interpretation: Source Code/ .exe convert each line to a binary  PHP, JavaScript, Java, C# Python
-## 2
+### 2
 Java Compiled because source code is compiled into a binary byte-code.
 Java Script is software-based Interpreter
-## 3
+### 3
 - Start
 - Declare dolar = 7.60
 - Declare localCurrency
@@ -27,11 +26,11 @@ var localCurrency;
 const  monto = 70;
 localCurrency = (dolar * monto);
 console.log(localCurrency);`
-## 4
+### 4
 Pseudocode: "informal code" to write programs and one benefit is that we can write it in a language that we are familiar
-## 5
+### 5
 Great way to start learning programing and will explain what each line in the program should do
-## 6
+### 6
 - Start
 - Declare age
 - Read currentYear
@@ -45,10 +44,10 @@ var age;
 const  bornYear = 1975;
 age = (currentYear - bornYear);
 console.log(age);`
-## 7
+### 7
 Describes the process of the system or the algorithm and They are used to plan or easy understand the way the programs is built 
-## 8
+### 8
 Communicate the ideas how the program is going to work and how other people will be involved in the process and helps to cleaning up code that is not going to work or is extra.
-## 9
+### 9
 - High-level languages: Python, C++, Java, Visual Basic
 - Low-level languages: Assembler, Machine Languaja 0-1
