@@ -2,7 +2,7 @@
 Core Code bootcamp
 
 ## Introduction to programming & Javascript - Week 1 Week #1 - Tuesday
-**ANSWEERS**
+**ANSWERS**
 
 ### 1
 ☑️: Compilation vs Interpretation 
