@@ -6,8 +6,8 @@ Core Code bootcamp
 ### 1
 ☑️: Compilation vs Interpretation 
 Programs will depend on what do we want to develop
-Compilation: Code/binary form/ ready to execute in the CPU  C. C++, Objective C
-Interpretation: Source Code/ .exe convert each line to a binary  PHP, JavaScript, Java, C# Python
+Compilation: Code/binary form/ ready to execute in the CPU  C. C++, Objective C, and will return an extra file (exe .ddl, etc)
+Interpretation: Source Code/ .exe convert each line to a binary  PHP, JavaScript, Java, C# Python and will be read line by line each time it is called. 
 ### 2
 Java Compiled because source code is compiled into a binary byte-code.
 Java Script is software-based Interpreter
