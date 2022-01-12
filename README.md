@@ -1,7 +1,7 @@
 # core-code-lou
 Core Code bootcamp
 
-# Week #1 
+# Week #1 - Tuesday
 
 **ANSWEER**
 
