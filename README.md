@@ -21,12 +21,13 @@ Java Script is software-based Interpreter
 - localCurrency = quetzal * dolar
 - Print localCurrency
 - End
+------------
+`const  dolar = 7.60;
+var localCurrency;
+const  monto = 70;
+localCurrency = (dolar * monto);
+console.log(localCurrency);`
 
-- const  dolar = 7.60;
-- var localCurrency;
-- const  monto = 70;
-- localCurrency = (dolar * monto);
-- console.log(localCurrency);
 
 ## 4
 Pseudocode: "informal code" to write programs and one benefit is that we can write it in a language that we are familiar
