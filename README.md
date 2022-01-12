@@ -27,8 +27,6 @@ var localCurrency;
 const  monto = 70;
 localCurrency = (dolar * monto);
 console.log(localCurrency);`
-
-
 ## 4
 Pseudocode: "informal code" to write programs and one benefit is that we can write it in a language that we are familiar
 ## 5
@@ -41,9 +39,16 @@ Great way to start learning programing and will explain what each line in the pr
 - age = currentYear - bornYear
 - Print age
 - End
+---------------------
+`const  currentYear = 2022;
+var age;
+const  bornYear = 1975;
+age = (currentYear - bornYear);
+console.log(age);`
 ## 7
-Process 
+Describes the process of the system or the algorithm and They are used to plan or easy understand the way the programs is built 
 ## 8
-
+Communicate the ideas how the program is going to work and how other people will be involved in the process and helps to cleaning up code that is not going to work or is extra.
 ## 9
-
+- High-level languages: Python, C++, Java, Visual Basic
+- Low-level languages: Assembler, Machine Languaja 0-1
