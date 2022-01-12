@@ -1,7 +1,7 @@
 # core-code-lou
 Core Code bootcamp
 
-## Introduction to programming & Javascript - Week 1 Week #1 - Tuesday
+## Introduction to programming & Javascript - Week #1 - Tuesday
 **ANSWERS**
 
 ### 1
