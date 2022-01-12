@@ -6,7 +6,7 @@ Core Code bootcamp
 **ANSWEERS**
 
 ## 1
-:joy: 
+☑️: 
 ## 2
 ## 3
 ## 4
