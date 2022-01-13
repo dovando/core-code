@@ -1,8 +1,8 @@
 # core-code-lou
 Core Code bootcamp
 ## Introduction to programming & Javascript - Week #1
-<center>Tuesday</center>
-
+**<center>Tuesday</center>
+**
 ### 1
 ☑️: Compilation vs Interpretation 
 Programs will depend on what do we want to develop
