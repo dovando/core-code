@@ -102,18 +102,7 @@ Communicate the ideas how the program is going to work and how other people will
   - 12/16 = 0.75         0    R**10**   (0.75*16= 12)
 ### 4
 ☑️
-### 5    
-----------------------------------------------------------------------------------------------------------------------
-5.1
-` .data
-    message: .asciiz "\nDayana Ovando\n"
-  .text
-    main:
-      li $v0, 4
-      la $a0, message
-      syscall`
-----------------------------------------------------------------------------------------------------------------------
-
+### 5
 5.2
 ` .data
     message: .asciiz "\nDayana Ovando\n"
