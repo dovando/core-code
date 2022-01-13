@@ -103,7 +103,30 @@ Communicate the ideas how the program is going to work and how other people will
 ### 4
 ☑️
 ### 5
-5.1``
+5.1`.data
+    n1: .asciiz "Enter your first number: "
+    n2: .asciiz "Enter your second number: "
+    
+.text
+    #getting first input.
+    la $a0, n1
+    li $v0, 4
+    syscall
+    li $v0, 5
+    syscall
+    move $t0, $v0
+
+    #getting second input.
+    la $a0, n2
+    li $v0, 4
+    syscall
+    li $v0, 5
+    syscall
+    move $t1, $v0
+
+    #end program.
+    li $v0, 10
+    `
 5.2` .data
     message: .asciiz "\nDayana Ovando\n"
   .text
