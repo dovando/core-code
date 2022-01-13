@@ -95,6 +95,5 @@ Communicate the ideas how the program is going to work and how other people will
   - 124/16 = 7.75         7 R**12**   (0.75*16= 12)
   - 7/16 = 0.4375         0 R**7**    (0.4375*16= 7)
 ### 4
-<ins>will be underlined</ins>.
-
+&nbsp;&nbsp;&nbsp;&nbsp;This is the first sentence of my indented paragraph.
 ### 5
