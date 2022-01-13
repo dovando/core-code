@@ -1,8 +1,8 @@
 # core-code-lou
 Core Code bootcamp
 ## Introduction to programming & Javascript - Week #1
-**<center>Tuesday</center>
-**
+**Tuesday ANSWERS**
+
 ### 1
 ☑️: Compilation vs Interpretation 
 Programs will depend on what do we want to develop
@@ -52,7 +52,7 @@ Communicate the ideas how the program is going to work and how other people will
 - Low-level languages: Assembler, Machine Languaja 0-1
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-<center>**Wednesday ANSWERS**</center>
+**Wednesday ANSWERS**
 ### 1
 - decimal numbers: Base 10 number (0,1,2,3,4,5,6,7,8,9)
 - binary numbers: Base 2 (0-1) this is use in the computer systesm (0 = off) (1 = on)
@@ -78,22 +78,27 @@ Communicate the ideas how the program is going to work and how other people will
   - 7/16 = 0.4375         0 R**7**    (0.4375*16= 7)
 ### 3
 - decimal number: 51966
-- binary numbers:  11111001101
-  - 1997/2 = 998  R**1**
-  - 998/2 = 499   R**0**
-  - 449/2 = 249   R**1**
-  - 249/2 = 124   R**1**
-  - 124/2 = 62    R**0**
-  - 62/2 = 31     R**0**
-  - 31/2 = 15     R**1**
-  - 15/2 = 7      R**1**
-  - 7/2 = 3       R**1**
-  - 3/2 = 1       R**1**
-  - 1/2 = 0       R**1**
-- hexadecimal numbers: 7CD
-  - 1997/16 = 124.8125  124 R**13**   (0.8125*16= 13)
-  - 124/16 = 7.75         7 R**12**   (0.75*16= 12)
-  - 7/16 = 0.4375         0 R**7**    (0.4375*16= 7)
+- binary numbers:  1100101011111110
+  - 51966/2 = 25983  R**0**
+  - 25983/2 = 12991  R**1**
+  - 12991/2 = 6495   R**1**
+  - 6495/2 = 3247    R**1**
+  - 3247/2 = 1623    R**1**
+  - 1623/2 = 811     R**1**
+  - 811/2 = 405      R**1**
+  - 405/2 = 202      R**1**
+  - 202/2 = 101      R**0**
+  - 101/2 = 50       R**1**
+  - 50/2 = 25        R**0**
+  - 25/2 = 12        R**1**
+  - 12/2 = 6         R**0**
+  - 6/2 = 3          R**0**
+  - 3/2 = 1          R**1**
+  - 1/2 = 0          R**1**
+- hexadecimal numbers: 
+  - 51966/16 = 3247.875  3247 R**14**   (0.875*16= 14)
+  - 3222= 3247.875  3247 R**14**   (0.875*16= 14)
+  - 
 ### 4
 &nbsp;&nbsp;&nbsp;&nbsp;This is the first sentence of my indented paragraph.
 ### 5
