@@ -1,7 +1,7 @@
 # core-code-lou
 Core Code bootcamp
 ## Introduction to programming & Javascript - Week #1
-**Tuesday ANSWERS**
+<center>**Tuesday ANSWERS**.</center>
 
 ### 1
 ☑️: Compilation vs Interpretation 
@@ -52,7 +52,7 @@ Communicate the ideas how the program is going to work and how other people will
 - Low-level languages: Assembler, Machine Languaja 0-1
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Wednesday ANSWERS**
+<center>**Wednesday ANSWERS**.</center>
 ### 1
 - decimal numbers: Base 10 number (0,1,2,3,4,5,6,7,8,9)
 - binary numbers: Base 2 (0-1) this is use in the computer systesm (0 = off) (1 = on)
