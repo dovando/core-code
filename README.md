@@ -95,4 +95,10 @@ Communicate the ideas how the program is going to work and how other people will
   - 124/16 = 7.75         7 R**12**   (0.75*16= 12)
   - 7/16 = 0.4375         0 R**7**    (0.4375*16= 7)
 ### 4
+<figure>
+    <img src="/assets/images/albuquerque.jpg"
+         alt="Albuquerque, New Mexico">
+    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+</figure>
+
 ### 5
