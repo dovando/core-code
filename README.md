@@ -126,7 +126,7 @@ Communicate the ideas how the program is going to work and how other people will
 
     #end program.
     li $v0, 10
-    `
+    syscall`
 5.2` .data
     message: .asciiz "\nDayana Ovando\n"
   .text
