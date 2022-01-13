@@ -103,7 +103,7 @@ Communicate the ideas how the program is going to work and how other people will
 ### 4
 ☑️
 ### 5
-5.1
+5.1 
 ` .data
     n1: .asciiz "Enter your first number: "
     n2: .asciiz "Enter your second number: "    
@@ -125,7 +125,8 @@ Communicate the ideas how the program is going to work and how other people will
     #end program.
     li $v0, 10
     syscall`
-5.2
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+5.2 
 ` .data
     message: .asciiz "\nDayana Ovando\n"
   .text
