@@ -95,10 +95,19 @@ Communicate the ideas how the program is going to work and how other people will
   - 6/2 = 3          R**0**
   - 3/2 = 1          R**1**
   - 1/2 = 0          R**1**
-- hexadecimal numbers: 
+- hexadecimal numbers: CAFE
   - 51966/16 = 3247.875  3247 R**14**   (0.875*16= 14)
-  - 3222= 3247.875  3247 R**14**   (0.875*16= 14)
-  - 
+  - 3247/16 = 202.9375   202  R**15**   (0.9375*16= 15)
+  - 202/16 = 12.625      12   R**10**   (0.625*16= 10)
+  - 12/16 = 0.75         0    R**10**   (0.75*16= 12)
 ### 4
-&nbsp;&nbsp;&nbsp;&nbsp;This is the first sentence of my indented paragraph.
+☑️
 ### 5
+5.1``
+5.2` .data
+    message: .asciiz "\nDayana Ovando\n"
+  .text
+    main:
+      li $v0, 4
+      la $a0, message
+      syscall`
