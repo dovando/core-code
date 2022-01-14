@@ -144,11 +144,22 @@ Communicate the ideas how the program is going to work and how other people will
 <h3 align="center">Thursday ANSWERS</h3>
 
 ### 1
-  Search for real word applications of Javascript
+Search for real word applications of Javascript
+Web Development
+Server Applications
+Web Servers
+Games
+Art
+Smartwatch Applications
+Mobile Applications
+Flying Robots
+
+Microsoft - JavaScript to built its Edge web browser.
+PayPal - JavaScript on the front end of their website for a long time.
+Netflix - 
 
 ### 2
-
-  Github course ☑️ In progress
+Github course ☑️ In progress
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
