@@ -9,11 +9,13 @@
 
     1. https://www.codewars.com/kata/50654ddff44f800200000004 ✨ **COMPLETED**
     
+    
  	`function multiply(a, b){
-  return a * b;
-}
-// las funcione SIEMPRE retornan un valor
-// los metodos no, solo hacen algo pero no devuelven nada ejemplo de un metodo`
+   return a * b;
+    }`
+   // las funcione SIEMPRE retornan un valor
+ // los metodos no, solo hacen algo pero no devuelven nada ejemplo de un metodo
+
     
   ---------------------------------------------------------------------------------------------------------------------------------------------
 
