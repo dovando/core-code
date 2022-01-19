@@ -4,10 +4,10 @@
 <h2 align="center">Software Desde Cero</h2>
 
 ## Index
-- [Week 1️⃣ - Introduction to programming & JavaScript](challenges/week1)
-- [Week 2️⃣ - JavaScript](challenges/week2)
-<!-- - [Week 3️⃣ - Challenges](challenges/week3)
-- [Week 4️⃣ - Challenges](challenges/week4)
-- [Week 5️⃣ - Challenges](challenges/week5)
-- [Week 6️⃣ - Challenges](challenges/week6)
-- [Week 7️⃣ - Challenges](challenges/week7) -->
+- [Week 1️⃣ - Introduction to programming & JavaScript](challenges/Week1)
+- [Week 2️⃣ - JavaScript](challenges/Week2)
+<!-- - [Week 3️⃣ - Challenges](challenges/Week3)
+- [Week 4️⃣ - Challenges](challenges/Week4)
+- [Week 5️⃣ - Challenges](challenges/Week5)
+- [Week 6️⃣ - Challenges](challenges/Week6)
+- [Week 7️⃣ - Challenges](challenges/Week7) -->
