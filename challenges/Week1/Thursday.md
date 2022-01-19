@@ -1,7 +1,5 @@
  # Index
 - [Tuesday](#tuesday)
-- [Wednesday](#wednesday)
-- [Thursday](#thursday)
 
 <hr>
 Tuesday ANSWERS
