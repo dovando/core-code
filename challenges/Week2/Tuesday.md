@@ -20,8 +20,18 @@
   ---------------------------------------------------------------------------------------------------------------------------------------------
 
     2. https://www.codewars.com/kata/572b6b2772a38bc1e700007a ✨ **COMPLETED**
-    
-    
+ 
+ `function uniTotal (string) {
+// total up dem unicodes!
+var arr = Array.from(string);//SE CONVIERTE LA CADENA A UN ARREGLO => [a,a,a]
+var sum = 0;
+for (var i = 0; i < arr.length; i++) {// se hace un for para iterar el arreglo
+	sum += arr[i].charCodeAt(0); //con charCodeAt(0) se convierrte al numero ascii y se va sumando
+}
+console.log(sum);//se imprime la suma
+return sum; // como es una funcion debe de devolver un valor 
+}
+`
   ---------------------------------------------------------------------------------------------------------------------------------------------
 
     3. https://www.codewars.com/kata/55ad04714f0b468e8200001c ✨ **COMPLETED**
