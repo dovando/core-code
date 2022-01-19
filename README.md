@@ -6,8 +6,8 @@
 ## Index
 - [Week 1️⃣ - Introduction to programming & JavaScript](challenges/Week1)
 - [Week 2️⃣ - JavaScript](challenges/Week2)
-<!-- - [Week 3️⃣ - Challenges](challenges/Week3)
+- [Week 3️⃣ - Challenges](challenges/Week3)
 - [Week 4️⃣ - Challenges](challenges/Week4)
 - [Week 5️⃣ - Challenges](challenges/Week5)
 - [Week 6️⃣ - Challenges](challenges/Week6)
-- [Week 7️⃣ - Challenges](challenges/Week7) -->
+- [Week 7️⃣ - Challenges](challenges/Week7)
