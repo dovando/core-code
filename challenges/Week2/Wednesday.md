@@ -5,10 +5,8 @@ Wednesday Answers
 **COMPLETED**
 
 
-`function dutyFree(normPrice, discount, hol){
-  
-return Math.floor(hol/((normPrice*discount)/100));
-  
+`function dutyFree(normPrice, discount, hol){ 
+return Math.floor(hol/((normPrice*discount)/100));  
 }`
 
 
@@ -21,7 +19,6 @@ return Math.floor(hol/((normPrice*discount)/100));
 
 `function twiceAsOld(dadYearsOld, sonYearsOld) {
  return Math.abs(dadYearsOld - (sonYearsOld*2));
-
 }`
 
 
