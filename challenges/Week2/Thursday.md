@@ -4,7 +4,8 @@ Thursday Answers
    1. https://www.codewars.com/kata/57faece99610ced690000165 ✨
 **COMPLETED**
 
-´function remove (string) {  
+
+`function remove (string) {  
   let arr =[]
   for (let i = string.length-1; i => 0; i--){
     if(string[i] != '!'){
@@ -12,7 +13,9 @@ Thursday Answers
       return arr.join('');
     }  
   }
-}´
+}`
+
+
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
@@ -20,17 +23,17 @@ Thursday Answers
 **COMPLETED**
 
 
-´function shortcut (string) {
+`function shortcut (string) {
   const vowels = /[aeiou]+/g;
   return string.replace(vowels, '' );
-}´
+}`
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
    3. https://www.codewars.com/kata/5672a98bdbdd995fad00000f ✨
 **COMPLETED**
 
-´const rps = (p1, p2) => {
+`const rps = (p1, p2) => {
   if (p1 === p2) return "Draw!";
   var rules = {rock: "scissors", paper: "rock", scissors: "paper"};
   if (p2 === rules[p1]) {
@@ -39,8 +42,7 @@ Thursday Answers
   else {
     return "Player 2 won!";
   }
-};
-´
+};`
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
