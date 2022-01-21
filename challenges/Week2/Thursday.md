@@ -51,4 +51,15 @@ Thursday Answers
 ----------------------------------------------------------------------------------------------------------------------------------------------
  5. Complete your 1st Core Challenge. This is one of the requirements for the certification, where you'll boost your dev professional-brand. ✨
 **COMPLETED**
+
+`
+function persistence(num)
+{
+  for (var i = 0; num > 9; i++)
+  {
+    num = num.toString().split("").reduce((s,d) => s * d);
+  }
+  return i;
+}`
+
 ----------------------------------------------------------------------------------------------------------------------------------------------
