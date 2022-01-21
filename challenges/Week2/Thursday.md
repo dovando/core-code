@@ -48,9 +48,6 @@ Thursday Answers
 ---------------------------------------------------------------------------------------------------------------------------------------------
    4. https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec✨
 **COMPLETED**
-----------------------------------------------------------------------------------------------------------------------------------------------
- 5. Complete your 1st Core Challenge. This is one of the requirements for the certification, where you'll boost your dev professional-brand. ✨
-**COMPLETED**
 
 `
 function persistence(num)
@@ -61,5 +58,11 @@ function persistence(num)
   }
   return i;
 }`
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+ 5. Complete your 1st Core Challenge. This is one of the requirements for the certification, where you'll boost your dev professional-brand. ✨
+**COMPLETED**
+
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
